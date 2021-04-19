@@ -2,4 +2,4 @@ This is a repository for my Dats Science Masters tutorial task on sentiment anal
 
 Since I am more comfortable with using visual studio, which also has an extension for python notebook, I decided to test how to integrate the given script into the data science workflow. I also applied best practices I learnt from my previous job as a web developer, where secret token is stored in an .env file, which will not be saved in GitHub using .gitignore.
 
-I also added a feature where each result returned by tweepy is sabed into a csv file.
+I also added a feature where each result returned by tweepy is saved into a csv file.
